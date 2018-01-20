@@ -1,5 +1,5 @@
 import random
-win == false
+win == "false"
 ai = (random.randint(1,3))
 guess = int(input("1 for rock 2 for paper and 3 for scissors: "))
 
@@ -10,11 +10,11 @@ if guess == 1:
       
     if ai == 3:
         print("You smashed scissors.")
-        win == true  
+        win == "true"  
 if guess == 2:
     if ai == 1:
         print("You cover rock.")
-        win == true
+        win == "true"
     if ai == 3:
         print("you were sliced by scissors. You lose")
         
@@ -25,7 +25,7 @@ if guess is 3:
         
     if ai is 2:
         print("you cut up paper.")
-        win == true
+        win == "true"
         
         
         
@@ -36,5 +36,5 @@ if guess is ai:
 if guess > 3:
     print("buy the expansion kit to use that move")
     
-if win == yes:
+if win == true:
     print("you win")
