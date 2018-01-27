@@ -1,0 +1,20 @@
+# import section
+import math
+
+#function section
+def add(x,y):
+    answer = x + y
+    print("inside function", answer)
+    return answer
+
+def printHi():
+    print("")
+
+#code starts here
+num1 = int(input("enter a number ->"))
+num2 = int(input("enter another number ->"))
+print(answer)
+print("outside", add(num1, num2))
+print(answer)
+
+printHi()
