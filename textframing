@@ -1,0 +1,7 @@
+word = raw_input("Insert a word ==> ")
+length = len(word)
+print(length)
+
+print("*"*(length+4))
+print("**" + word + "**")
+print("*"*(length+4))
