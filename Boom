@@ -1,0 +1,25 @@
+print ("what kind of bomb are you?")
+
+nuke = 0
+incediary = 0
+napalm = 0
+dud = 0
+tnt = 0
+
+print("How often do you tend to blow up")
+guess = int(input("1.Often 2. Every once in a while 3. Once in a blue moon 4. Never ==> "))
+
+if guess is 1:
+   tnt + 1
+   
+elif guess is 2:
+   napalm + 1
+   incediary + 1
+   
+elif guess is 3:
+   nuke = 1
+   
+else:
+   dud + 1
+   
+geuss = int(input("when you blow up"))
