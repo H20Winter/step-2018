@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>MOAR JAVA</title>
+</head>
+<body>
+<script type="text/javascript">
+	var ooo = window.prompt("enter number:", 0);
+	var doo = window.prompt("enter second number -->", 0);
+	var twa = window.prompt("enter final number ==>", 0);
+	document.write(ooo * doo * twa)
+	if (ooo * doo * twa > 0){window.alert("this is positive");}
+	if (ooo * doo * twa < 0){window.alert("this is negative");}
+	if (ooo * doo * twa == 0){window.alert("this is zero");}
+</script>
+</body>
+</html>
