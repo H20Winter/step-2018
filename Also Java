@@ -1,0 +1,42 @@
+
+<html>
+<head>
+	<title>Javascript stuff</title>
+</head>
+<body>
+	<h1 id = "name"></h1>
+	<script type="text/javascript">
+		//var greeting = "Hoi hooman";
+		//var x = 6;
+		//var y = 7;
+		//var z = 42;
+		//document.write(greeting)
+		//document.write(x * y);
+		//document.write("<br>");
+		//document.write(x * y == z);
+
+		//document.getElementById("name").innerHTML = "Hooman";
+
+		/*
+		blocks all comment in it
+		*/
+
+		//var name = window.prompt("Enter name:", "");
+		//document.write(name);
+
+			// window.alert("Waning dis sute is downloding a viroos oon ur compooter")	
+
+		var myage = 12;
+		var age = window.prompt("Enter age: ", 0);
+		document.write(age);
+
+		if (myage > age){document.write("<br>","is younger than me.");}
+		if (myage < age){document.write("<br>","is older than me.");}
+		if (myage == age){document.write("<br>","is the same than me.");}
+		if (age > 115){document.write("<br>","But it seems too old. I PRESS X TO DOUBT");}
+		if (age < 5){document.write("<br>","But it seems too young. I PRESS X TO DOUBT (but I realize you can't read this. Probably. Unless you lied which you did unless you are acually are that young and pressed a random number and pressed enter and why am I still writing this since even if you did you proabably can't read this unless you did lie)");}
+
+
+	</script>
+</body>
+</html>
