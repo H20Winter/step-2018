@@ -7,9 +7,9 @@
 	<h1 id = "date"></h1>
 	
 	<script>
-		var knockoffs = ["batguy","spooder man", "gren candle", "Hooman bonfire"]
+		var knockoffs = ["batguy", "spooder man", "gren candle", "Hooman bonfire"]
 		for(var i = 0; i <= knockoffs.length - 1; i = i + 1){
-			document.write(knockoffs)
+			document.write(knockoffs[i] + "<br>")
 		}
 	</script>
 </body>
