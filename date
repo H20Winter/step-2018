@@ -1,0 +1,26 @@
+<!Doctype html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<h1 id = "greeting"></h1>
+
+	<script>
+		//document.getElementById('date').innerHTML=Date();
+		var d = new Date();
+		var hour = d.getHours();
+		var greeting;
+		if (hour < 12) {
+			greeting = "G'morning";
+		}
+		else if (hour > 12 && hour < 17 ) {
+			greeting = "good afternoon";
+		}
+		else if (hour > 17) {
+			greeting = "good evening";
+		}
+		document.getElementById('greeting').innerHTML=greeting;
+	</script>
+</body>
+</html>
