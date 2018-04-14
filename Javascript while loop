@@ -1,0 +1,28 @@
+<!Doctype html>
+<!Doctype html>
+<html>
+<head>
+	<title>Conditionals</title>
+</head>
+<body>
+
+  <p id= "list_stuff">loop output! </p>
+
+  <script type="text/javascript">
+
+
+
+Opm = ["Saitama", "Child Emperor", "Pig God", "Metal Bat", "Stinger", "Zombieman", "Lightning Max", "Sping Mustachio", "Atomic Samurai", "Snakebite Snek", "Amai Mask", "Puri Puri Prisoner", "Tank Top Girl", "Tank Top Hatter", "Flashy Flash", "Wachdog Man", "Superalloy Blackluster", "Genos","Silver Fang", "King", "Blast", "Bang", "Drive knight", "Terrible Tornado", "Tank Top Tiger", "Tank Top Black Hole", "Tank Top Master", "Mumen Rider"];
+var txt = "";
+var i = 0;
+
+while(i < Opm.length){
+	console.log("i:"+ i + " Opm[i] " + Opm[i]);
+	txt += Opm[i]+" ";
+	i++;
+}
+    
+document.getElementById("list_stuff").innerHTML = txt;
+	</script>
+</body>
+</html>
