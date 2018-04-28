@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Life or death</title>
+</head>
+<body>
+<h3>When you wake up you are in a trapped in a chair. Chained down. Then a man dressed in a suit comes to you and in a heavy Russian accent says</h3>
+<h4>"Greetings I am Alexandreyev but that will be no use to you. I will be straightforward. Become a spy for us or die. Be warned that if you become a spy and try or desert us we will find you. We will find you and you will regret it. So what is your choice.</h4>
+<button type="button"onclick="window.location.href=''">spy</button>
+<button type="button"onclick="window.location.href='file:///C:/Users/CIPCE/Desktop/Fpp8.html'">die</button>
+</body>
+</html>
