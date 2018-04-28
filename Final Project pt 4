@@ -7,7 +7,7 @@
 <h3>ok so you choose to take your chances with the door. How do you want to do this</h3>
 <h3>It is locked with a key, made of pine wood, and it swings outwards</h3>
 <h6>Don't ask how you know this. You just do</h6>
-<button type="button"onclick="window.location.href=''">ram it</button><br>
+<button type="button"onclick="window.location.href='file:///C:/Users/CIPCE/Desktop/FPP6.html'">ram it</button><br>
 <button type="button"onclick="window.location.href='file:///C:/Users/CIPCE/Desktop/FPP5.html'">pick it</button><br>
 <button type="button"onclick="window.location.href='file:///C:/Users/CIPCE/Desktop/FPP5.html'">burn it</button><br>
 <button type="button"onclick="window.location.href='file:///C:/Users/CIPCE/Desktop/FPP3.html'">go back</button>
