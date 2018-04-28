@@ -6,7 +6,7 @@
 <body>
  <img class="irc_mi" src="http://tribzap2it.files.wordpress.com/2013/04/arrow-finale-oliver-queen-chained-up.jpg?w=532&amp;h=800" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="235" height="353" style="margin-top: 0px;" alt="Image result for person chained in dungeon">
 	<h1>You are chained in a Dungeon what do you do</h1>
-	<button type="button" onclick="window.location.href='http://endless.horse'">try to break the chains</button>
+	<button type="button" onclick="window.location.href='file:///C:/Users/CIPCE/Desktop/FPP2.html'">try to break the chains</button>
 	<br>
 	<button type="button"onclick="window.location.href='http://endless.horse'">try to slip out the chains</button>
 	<br>
