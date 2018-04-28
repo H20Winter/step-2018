@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>broken</title>
+</head>
+<body>
+<H3>When you try to break them you only succeed in breaking your wrists which allow you to slip out</H3>
+<H3>But now you are stuck in a brick room with a barred window, a door, and the chains. what do you do</H3>
+
+<button type="button"onclick="window.location.href='file:///C:/Users/CIPCE/Desktop/FPP4.html'">attempt to break down the door</button><br>
+<button type="button"onclick="window.location.href=''">try to break the window</button><br>
+<button type="button"onclick="window.location.href='">search for faults in the room</button>
+</body>
+</html>
